@@ -1,5 +1,5 @@
-EWW WIP
-![GIF](https://files.catbox.moe/axis9j.gif)
+
+![image](https://files.catbox.moe/5mxkwy.png)
 <!--
 **DlEGOBRANDO/DlEGOBRANDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
